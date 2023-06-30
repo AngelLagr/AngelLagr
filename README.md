@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cybersecurity and developement
 - 🌱 I’m currently learning python and C 
 - 📫 How to reach me on :
--     Linkedin : @AngelLagrange
+-     Linkedin : linkedin.com/in/angel-lagrange-3bba34250
 -     Email : lagrange.angel@orange.fr
 
 <!---
