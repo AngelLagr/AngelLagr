@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AngelLagr
 - 👀 I’m interested in Cybersecurity and developement
-- 🌱 I’m currently learning python and C 
+- 🌱 I'm comfortable with python, Javascript and C#.
+- 🤖 I'm learning C, Haskell, CSS and PHP
 - 📫 How to reach me on :
 -     Linkedin : linkedin.com/in/angel-lagrange-3bba34250
 -     Email : lagrange.angel@orange.fr
