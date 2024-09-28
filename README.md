@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AngelLagr
 - 👀 I’m very interested in AI
 - 🌱 I'm comfortable with python, C, java, HTML, Javascript and C#.
-- 🤖 I'm learning Web Developpement, PyTorch and the Python libraries used in AI
+- 🤖 I'm learning Web Developpement, Tensorflow and the Python libraries used in AI
 - 📫 How to reach me on :
 -     Linkedin : linkedin.com/in/angel-lagrange-3bba34250
 -     Email : angellagrange.contact@gmail.com
