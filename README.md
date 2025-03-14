@@ -2,7 +2,7 @@
 - 👀 I’m very interested in AI and Math
 ***
 - 🌱 I'm comfortable with python, C, java, HTML, Javascript and C#
-- 📖 I studied the use of
+- 📖 Throughout my courses in my Engineering School (ENSEEIHT), I studied the use of
   - OpenGL, keras, Torch, Tensorflow, ...
   - And a few type of AI structure like AutoEncoders, CLIP, transformers, DeepQlearning, CNN, ...
 ---
